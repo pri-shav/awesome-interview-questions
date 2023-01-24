@@ -590,6 +590,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 * [Top 60+ DevOps Interview Questions &amp; Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
 * [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
+* [Top DevOps Interview Questions From Linked](https://www.linkedin.com/pulse/top-5-devops-interview-questions-you-must-learn-2023-lokesh-agarwal/)
 
 ## Algorithms
 * [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
