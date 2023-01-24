@@ -232,6 +232,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Solutions for Elements of Programming Interviews problems written in Golang](https://github.com/mrekucci/epi)
 * [Solutions for some basic coding interview tasks written in Go](https://github.com/efischer19/golang_ctci)
 * [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
+* [13 Best Lessons in Golang for freshers and experienced developers](https://www.igmguru.com/course/golang-training/)
 
 ### GraphQl
 
@@ -419,6 +420,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [11 Ruby on Rails Interview Practice Questions](https://www.codementor.io/ruby-on-rails/tutorial/ruby-on-rails-interview-questions)
 * [Top 53 Ruby on Rails Interview Questions & Answers](https://career.guru99.com/top-34-ruby-on-rail-interview-questions/)
 * [10 Ruby on Rails interview questions and answers](https://www.upwork.com/i/interview-questions/ruby-on-rails/)
+* [Most Asked RubyOnRails Interview Questions For Working Porfessionals](https://www.igmguru.com/course/ruby-on-rails-certification-training/)
 
 ### ReactJS
 
@@ -590,7 +592,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top DevOps Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)
 * [Top 60+ DevOps Interview Questions &amp; Answers in 2021](https://intellipaat.com/interview-question/devops-interview-questions/)
 * [DevOps Interview Questions &amp; Answers](https://www.interviewbit.com/devops-interview-questions/)
-* [Top DevOps Interview Questions From Linked](https://www.linkedin.com/pulse/top-5-devops-interview-questions-you-must-learn-2023-lokesh-agarwal/)
+* [Top DevOps Interview Questions From Linkedin](https://www.linkedin.com/pulse/top-5-devops-interview-questions-you-must-learn-2023-lokesh-agarwal/)
 
 ## Algorithms
 * [Comprehensive list of interview questions of top tech companies](https://github.com/rishabh115/Interview-Questions)
